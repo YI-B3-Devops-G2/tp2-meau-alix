@@ -1,11 +1,11 @@
 # tp2-meau-alix
 alix.meau@ynov.com
 
-#prérequis
+## prérequis
 -docker
 -nodejs
 
-#comment instaler:
+## comment instaler:
 -telecharger ou clonner le repo dans le dossier de votre choix 
 -ouvrer un terminal et placer vous dans le dossier tp2-meau-alix
 -tapez la commande npm install dans votre terminal
